@@ -67,7 +67,7 @@ Addition of 5 and 3 is 8
 
 ### 🖥️ Output Screenshot
 
-![Calculator Output](output/calculator.png)
+![Calculator Output](outputs/calculator.png)
 
 ---
 
@@ -97,7 +97,7 @@ Output:
 
 ### 🖥️ Output Screenshot
 
-![Cube 1D Array Output](output/cube-1d-array.png)
+![Cube 1D Array Output](outputs/cube-1d-array.png)
 
 ---
 
@@ -123,7 +123,7 @@ Pattern programs are useful for understanding:
 
 ### 🖥️ Output Screenshot
 
-![Pattern Output](output/pattern.png)
+![Pattern Output](outputs/pattern.png)
 
 ---
 
@@ -153,7 +153,7 @@ Reverse:
 
 ### 🖥️ Output Screenshot
 
-![Reverse 1D Array Output](output/revers-1d-array.png)
+![Reverse 1D Array Output](outputs/revers-1d-array.png)
 
 ---
 
@@ -182,7 +182,7 @@ Sum = 150
 
 ### 🖥️ Output Screenshot
 
-![Sum of Elements Output](output/sum-of-element.png)
+![Sum of Elements Output](outputs/sum-of-element.png)
 
 ---
 
