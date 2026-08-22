@@ -6,7 +6,7 @@ This repository contains simple and beginner-friendly C programs written as part
 
 ## 📌 Repository
 
-[C-PRACTICAL-EXAM — GitHub Repository](https://github.com/Husen77k/C-PRACTICAL-EXAM.git?utm_source=chatgpt.com)
+**C-PRACTICAL-EXAM**
 
 ---
 
@@ -18,7 +18,7 @@ This repository contains simple and beginner-friendly C programs written as part
 | 2   | 🔢 Cube of Elements in 1D Array            | `cube-1d-array.c`   |
 | 3   | 🔷 Pattern Printing                        | `pattern.c`         |
 | 4   | 🔄 Reverse Elements of 1D Array            | `revers-1d-array.c` |
-| 5   | ➕ Sum of Elements in 1D Array              | `sum-of-element.c`  |
+| 5   | ➕ Sum of Elements in 1D Array              | `sum-of-elements.c` |
 
 ---
 
@@ -67,7 +67,7 @@ Addition of 5 and 3 is 8
 
 ### 🖥️ Output Screenshot
 
-![Calculator Output](outputs/calculator.png)
+![Calculator Output](c-exam/outputs/calculator-c.png)
 
 ---
 
@@ -97,7 +97,7 @@ Output:
 
 ### 🖥️ Output Screenshot
 
-![Cube 1D Array Output](outputs/cube-1d-array.png)
+![Cube of 1D Array Output](c-exam/outputs/cube-1d-array-c.png)
 
 ---
 
@@ -105,7 +105,7 @@ Output:
 
 ### 📌 Description
 
-This program demonstrates how to print a pattern using nested loops in C.
+This program demonstrates how to print a pattern using **nested loops** in C.
 
 Pattern programs are useful for understanding:
 
@@ -123,7 +123,7 @@ Pattern programs are useful for understanding:
 
 ### 🖥️ Output Screenshot
 
-![Pattern Output](outputs/pattern.png)
+![Pattern Output](c-exam/outputs/pattern-c.png)
 
 ---
 
@@ -153,7 +153,7 @@ Reverse:
 
 ### 🖥️ Output Screenshot
 
-![Reverse 1D Array Output](outputs/revers-1d-array.png)
+![Reverse 1D Array Output](c-exam/outputs/revers-1d-array-c.png)
 
 ---
 
@@ -182,7 +182,7 @@ Sum = 150
 
 ### 🖥️ Output Screenshot
 
-![Sum of Elements Output](outputs/sum-of-element.png)
+![Sum of Elements Output](c-exam/outputs/sum-of-element-c.png)
 
 ---
 
@@ -191,23 +191,25 @@ Sum = 150
 ```text
 C-PRACTICAL-EXAM/
 │
-├── output/
-│   ├── calculator.png
-│   ├── cube-1d-array.png
-│   ├── pattern.png
-│   ├── revers-1d-array.png
-│   └── sum-of-element.png
-│
-├── calculator.c
-├── cube-1d-array.c
-├── pattern.c
-├── revers-1d-array.c
-├── sum-of-element.c
+├── c-exam/
+│   │
+│   ├── outputs/
+│   │   ├── calculator-c.png
+│   │   ├── cube-1d-array-c.png
+│   │   ├── pattern-c.png
+│   │   ├── revers-1d-array-c.png
+│   │   └── sum-of-element-c.png
+│   │
+│   ├── calculator.c
+│   ├── cube-1d-array.c
+│   ├── pattern.c
+│   ├── revers-1d-array.c
+│   └── sum-of-elements.c
 │
 └── README.md
 ```
 
-> **Note:** Keep the output screenshots inside the `output/` folder with the filenames used above. GitHub will then display them automatically in this README.
+> **Note:** The `README.md` is located in the repository root, while the C programs and output screenshots are inside the `c-exam/` folder.
 
 ---
 
@@ -226,19 +228,22 @@ To run these programs, you need:
 
 ## 1. Clone the Repository
 
+Clone the repository from GitHub and open the project folder.
+
 ```bash
-git clone https://github.com/Husen77k/C-PRACTICAL-EXAM.git
+git clone <repository-url>
 ```
 
 ## 2. Open the Project
 
 ```bash
 cd C-PRACTICAL-EXAM
+cd c-exam
 ```
 
 ## 3. Compile a Program
 
-For example:
+For example, to compile the calculator:
 
 ```bash
 gcc calculator.c -o calculator
@@ -258,7 +263,7 @@ gcc calculator.c -o calculator
 ./calculator
 ```
 
-The same process can be used for the other `.c` files.
+The same process can be used for the other C programs.
 
 ---
 
@@ -305,11 +310,11 @@ Possible improvements include:
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Husen**
 
-📌 GitHub: [Husen77k](https://github.com/Husen77k?utm_source=chatgpt.com)
+GitHub: **Husen77k**
 
 ---
 
